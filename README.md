@@ -1,0 +1,13 @@
+<div align="center">
+
+    <img src="https://i.pinimg.com/736x/8d/95/ac/8d95ac4350c0a45243a5bfa96d0284a9.jpg" width="100%">
+
+    <br>
+
+    <h2>Bem-vindo ao meu perfil!</h2>
+
+    <a href="mailto:talitasilvaz960@gmail.com">
+        <img src="https://img.icons8.com/?size=100&id=eBEo6FOQZ3v4&format=png&color=000000" width="40" alt="E-mail">
+    </a>
+
+</div>
