@@ -8,7 +8,5 @@
 
 </div>
 
-
 ## Sobre mim
-*Meu nome é Talita eu sou estudante de engenharia de software*
-
+*Meu nome é Talita eu sou estudante de Engenharia de software*
